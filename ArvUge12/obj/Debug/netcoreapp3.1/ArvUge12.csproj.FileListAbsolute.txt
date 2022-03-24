@@ -1,0 +1,14 @@
+C:\Git\Test\ArvUge12\ArvUge12\bin\Debug\netcoreapp3.1\ArvUge12.exe
+C:\Git\Test\ArvUge12\ArvUge12\bin\Debug\netcoreapp3.1\ArvUge12.deps.json
+C:\Git\Test\ArvUge12\ArvUge12\bin\Debug\netcoreapp3.1\ArvUge12.runtimeconfig.json
+C:\Git\Test\ArvUge12\ArvUge12\bin\Debug\netcoreapp3.1\ArvUge12.runtimeconfig.dev.json
+C:\Git\Test\ArvUge12\ArvUge12\bin\Debug\netcoreapp3.1\ArvUge12.dll
+C:\Git\Test\ArvUge12\ArvUge12\bin\Debug\netcoreapp3.1\ArvUge12.pdb
+C:\Git\Test\ArvUge12\ArvUge12\obj\Debug\netcoreapp3.1\ArvUge12.csproj.AssemblyReference.cache
+C:\Git\Test\ArvUge12\ArvUge12\obj\Debug\netcoreapp3.1\ArvUge12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\Test\ArvUge12\ArvUge12\obj\Debug\netcoreapp3.1\ArvUge12.AssemblyInfoInputs.cache
+C:\Git\Test\ArvUge12\ArvUge12\obj\Debug\netcoreapp3.1\ArvUge12.AssemblyInfo.cs
+C:\Git\Test\ArvUge12\ArvUge12\obj\Debug\netcoreapp3.1\ArvUge12.csproj.CoreCompileInputs.cache
+C:\Git\Test\ArvUge12\ArvUge12\obj\Debug\netcoreapp3.1\ArvUge12.dll
+C:\Git\Test\ArvUge12\ArvUge12\obj\Debug\netcoreapp3.1\ArvUge12.pdb
+C:\Git\Test\ArvUge12\ArvUge12\obj\Debug\netcoreapp3.1\ArvUge12.genruntimeconfig.cache
