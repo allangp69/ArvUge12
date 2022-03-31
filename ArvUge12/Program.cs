@@ -16,6 +16,8 @@ namespace ArvUge12
 
             Console.WriteLine(cylinder.ToString());
 
+            Console.WriteLine();
+
             Console.ReadLine();
         }
     }
