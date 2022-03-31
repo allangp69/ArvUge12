@@ -18,6 +18,8 @@ namespace ArvUge12
 
             Console.WriteLine();
 
+            Console.WriteLine("Allans fede linje kode");
+
             Console.ReadLine();
         }
     }
